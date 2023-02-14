@@ -1,2 +1,2 @@
 # chat-app
-a web sever with out of the box tools
+a chat app using react and firebase
